@@ -6,6 +6,10 @@ Toda a estilização que será usada no projeto dentro do figma.
 
 ## Fonte
 
+#Projeto feito em aula com @Bruno Lopez na Alura.
+![image](https://user-images.githubusercontent.com/106198134/200945515-0627b269-646a-4141-9dbc-2258507e4884.png)
+
+
 ```html
 Open Sans:
 <link rel="preconnect" href="https://fonts.googleapis.com">
